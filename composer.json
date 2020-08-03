@@ -1,0 +1,20 @@
+{
+    "name":"",
+    "description":"",
+    "type": "blog",
+    "keywords": [],
+    "license": "",
+    "require": {
+
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "classmap": [],
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+
+}
